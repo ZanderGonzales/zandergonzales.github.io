@@ -126,6 +126,27 @@
     "text": "SKILLS AND ACHIEVEMENTS\n\n\n\nSoftware & Tools\n\nOnshape\nSolidWorks\nAutodesk\nPython\nC++\nMicrosoft Office\n\n\n\nTechnical Skills\n\nMechanical design\nComputer-aided modeling\nTechnical report writing\nData analysis\nEasy to follow technical explanations\n\n\n\n\nLink to my current resume"
   },
   {
+    "objectID": "project files/Avionics/avionics_page.html",
+    "href": "project files/Avionics/avionics_page.html",
+    "title": "Effects of Anodizing on Avionics Connector Corrosion",
+    "section": "",
+    "text": "While working at a materials testing lab in Lockheed Martin, I was put in charge of a project testing the effects of different anodizing processes on corrosion rate of avionics connectors.\n\nThis was done by taking avionics connectors and treating them with different anodizing processes. These were then put in fog testing chambers, one with salt fog and one with SO\\(_2\\) fog, and then taken out. Electrical conductivity was tested and used to measure corrosion. I then took all of this information and put it into a techincal internal report."
+  },
+  {
+    "objectID": "project files/Avionics/avionics_page.html#project-overview",
+    "href": "project files/Avionics/avionics_page.html#project-overview",
+    "title": "Effects of Anodizing on Avionics Connector Corrosion",
+    "section": "",
+    "text": "While working at a materials testing lab in Lockheed Martin, I was put in charge of a project testing the effects of different anodizing processes on corrosion rate of avionics connectors.\n\nThis was done by taking avionics connectors and treating them with different anodizing processes. These were then put in fog testing chambers, one with salt fog and one with SO\\(_2\\) fog, and then taken out. Electrical conductivity was tested and used to measure corrosion. I then took all of this information and put it into a techincal internal report."
+  },
+  {
+    "objectID": "project files/Avionics/avionics_page.html#skills-demonstrated",
+    "href": "project files/Avionics/avionics_page.html#skills-demonstrated",
+    "title": "Effects of Anodizing on Avionics Connector Corrosion",
+    "section": "Skills Demonstrated",
+    "text": "Skills Demonstrated\n\nProject leadership\nReport writing\nAnodizing\nConductivity testing"
+  },
+  {
     "objectID": "project files/Car Coast/car_page.html",
     "href": "project files/Car Coast/car_page.html",
     "title": "Calculating Experimental Coeffiecients of Drag and Static Friction of a Coasting Car",
@@ -215,26 +236,5 @@
     "title": "Custom Injection Molded Fidget Spinner",
     "section": "Steps",
     "text": "Steps\n\nCreate a model of the proposed spinner body and the bearing caps to go with it  \nCreate a model of the mold \nCreate an FEA analysis assuming that the spinner was dropped from 2 meters \nMachine the mold (at this point the group voted on a design to all use, hence the change in design from hereon in) \nUse an injection to create the spinner, and input the bearings \n\nView the complete report here"
-  },
-  {
-    "objectID": "project files/Avionics/avionics_page.html",
-    "href": "project files/Avionics/avionics_page.html",
-    "title": "Effects of Anodizing on Avionics Connector Corrosion",
-    "section": "",
-    "text": "While working at a materials testing lab in Lockheed Martin, I was put in charge of a project testing the effects of different anodizing processes on corrosion rate of avionics connectors.\n\nThis was done by taking avionics connectors and treating them with different anodizing processes. These were then put in fog testing chambers, one with salt fog and one with SO\\(_2\\) fog, and then taken out. Electrical conductivity was tested and used to measure corrosion. I then took all of this information and put it into a techincal internal report."
-  },
-  {
-    "objectID": "project files/Avionics/avionics_page.html#project-overview",
-    "href": "project files/Avionics/avionics_page.html#project-overview",
-    "title": "Effects of Anodizing on Avionics Connector Corrosion",
-    "section": "",
-    "text": "While working at a materials testing lab in Lockheed Martin, I was put in charge of a project testing the effects of different anodizing processes on corrosion rate of avionics connectors.\n\nThis was done by taking avionics connectors and treating them with different anodizing processes. These were then put in fog testing chambers, one with salt fog and one with SO\\(_2\\) fog, and then taken out. Electrical conductivity was tested and used to measure corrosion. I then took all of this information and put it into a techincal internal report."
-  },
-  {
-    "objectID": "project files/Avionics/avionics_page.html#skills-demonstrated",
-    "href": "project files/Avionics/avionics_page.html#skills-demonstrated",
-    "title": "Effects of Anodizing on Avionics Connector Corrosion",
-    "section": "Skills Demonstrated",
-    "text": "Skills Demonstrated\n\nProject leadership\nReport writing\nAnodizing\nConductivity testing"
   }
 ]
