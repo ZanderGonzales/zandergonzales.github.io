@@ -235,6 +235,6 @@
     "href": "project files/Spinner/spinner_page.html#steps",
     "title": "Custom Injection Molded Fidget Spinner",
     "section": "Steps",
-    "text": "Steps\n\nCreate a model of the proposed spinner body and the bearing caps to go with it  \nCreate a model of the mold \nCreate an FEA analysis assuming that the spinner was dropped from 2 meters \nMachine the mold (at this point the group voted on a design to all use, hence the change in design from hereon in) \nUse an injection to create the spinner, and input the bearings \n\nView the complete report here"
+    "text": "Steps\n\nCreate a model of the proposed spinner body and the bearing caps to go with it  \nCreate a model of the mold  \nCreate an FEA analysis assuming that the spinner was dropped from 2 meters \nMachine the mold (at this point the group voted on a design to all use, hence the change in design from hereon in) \nUse an injection to create the spinner, and input the bearings \n\nView the complete report here"
   }
 ]

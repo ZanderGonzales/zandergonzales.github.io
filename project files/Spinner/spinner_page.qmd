@@ -18,6 +18,7 @@ For this project, the goal was to design a fidget spinner using SolidWorks that 
 ![](spinner_body_sketch.png)
 ![](bearing_sketch.png)
 2. Create a model of the mold
+<d>
 ![](spinner_mold.png)
 3. Create an FEA analysis assuming that the spinner was dropped from 2 meters
 ![](spinner_fea.png)

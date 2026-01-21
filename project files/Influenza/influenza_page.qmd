@@ -15,6 +15,10 @@ Influenza spreading through a closed community can be modeled by a series of thr
 The primary unknown parameters were β and Ɣ, the parameters representing infection and recovery rate for this specific strain of influenza. A Python implementation using solve_ivp in SciPy solved the SIR differential equations. To estimate the optimal β and γ parameters, a mean squared error function compared model predictions to actual data. A grid search over arrays of β and γ values, the ranges taken from online research of what common values were, produced a 2D error matrix, visualized using a contour plot (Figure 1). The global minimum in this matrix identified the β and γ values that best fit the observed data. The results of the models predictions were then graphed over top the actual collected data over the course of the year. This same graph was also used to show how expected peak times and maximum intake number at hospitals would change based off of changed assumed constants(Figure 2).
 
 ![](virus_error_graph.png)
+
+<d><d>
+<d><d>
+
 ![](virus_graph.png)
 
 ## Discussion
