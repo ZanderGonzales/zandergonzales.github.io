@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 ---
-Hi! I’m **Zander Gonzales**: problem solving engineer, student TA, and lover of models. I am currently a Junior studying Mechanical Engineering at Brigham Young University. Hopefully you like my website!
+Hi! I’m **Zander Gonzales**: problem solving engineer, student TA, and lover of 3D modeling. I am currently a Junior studying Mechanical Engineering at Brigham Young University. Hopefully you like my website!
 
 ::: {layout-align="center"}
 ![](Professional%20Profile.jpg){width=50% fig-align="center"}
